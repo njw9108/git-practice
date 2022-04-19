@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Teddy
+=======
+manager: Eddy
+>>>>>>> 88a355c (Edit manager to Tigers)
 
 coach: Ruth
 

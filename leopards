@@ -2,13 +2,10 @@ team: Leopards
 
 manager: Manager
 
-<<<<<<< HEAD
 coach: Nicholas
-=======
-coach: Melissa
->>>>>>> a778042 (Edit leopards)
 
 members:
   - leo1
   - leo2
   - leo3
+  - Eive
